@@ -8,7 +8,7 @@
 - 💥 Working on: my portfolio, finishing coding bootcamp Skillcrush, refreshing my web dev skills
 - 🔭 Exploring: open source software and contributions (Hackotber is here!) and [digital gardening](https://maggieappleton.com/garden-history)
 
-## My goals:
+## Here's some of my goals:
 - 🔲 Building up and launching my portfolio with JS, SQL, Python projects
 - 🔲 Securing freelance,contract or part-time work
 - 🔲 Remote jobs only please!

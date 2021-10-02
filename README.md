@@ -10,7 +10,7 @@
 
 ## Here's some of my goals:
 - 🔲 Building up and launching my portfolio with JS, SQL, Python projects
-- 🔲 Securing freelance,contract or part-time work
+- 🔲 Securing freelance, contract or part-time work
 - 🔲 Remote jobs only please!
 
 <!--

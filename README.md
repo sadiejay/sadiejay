@@ -1,15 +1,15 @@
 # Hi there, I'm Sadie ✨
 
-- I'm a freelance writer with a background in front-end web development and digital communication.
+- I'm a front-end web developer with a background in writing, psychology, art and digital communication.
 - 😄 Pronouns: she / her
 
 ## Here's what I'm up to right now:
-- 🌱 Learning: Vanilla JS/React/SQL/Python
+- 🌱 Learning: Vanilla JS/React/Svelte and web3
 - 💥 Working on: my portfolio, finishing coding bootcamp Skillcrush, refreshing my web dev skills
-- 🔭 Exploring: open source software and contributions (Hackotber is here!) and [digital gardening](https://maggieappleton.com/garden-history)
+- 🔭 Exploring: open source software and contributions, web3 stuff, and [digital gardening](https://maggieappleton.com/garden-history)
 
 ## Here's some of my goals:
-- 🔲 Building up and launching my portfolio with JS, SQL, Python projects
+- 🔲 Building up and launching my portfolio with JS, React,Svelte dapps/NFTs (maybe?)
 - 🔲 Securing freelance, contract or part-time work
 - 🔲 Remote jobs only please!
 

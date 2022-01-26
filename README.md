@@ -1,17 +1,20 @@
 # Hi there, I'm Sadie ✨
 
-- I'm a front-end web developer with a background in writing, psychology, art and digital communication.
+- I'm a front-end web developer with a background in psychology, art and digital communication.
 - 😄 Pronouns: she / her
+- 👩🏾‍💻 Portfolio: [Sadie Jay| Front-End Developer](https://sadiejay.github.io/portfolio/)
 
 ## Here's what I'm up to right now:
-- 🌱 Learning: Vanilla JS/React/Svelte and web3
-- 💥 Working on: my portfolio, finishing coding bootcamp Skillcrush, refreshing my web dev skills
-- 🔭 Exploring: open source software and contributions, web3 stuff, and [digital gardening](https://maggieappleton.com/garden-history)
+- 🌱 Learning: Vanilla JS, React, and Svelte
+- 💥 Working on: [#100daysofcode](https://github.com/sadiejay/100-days-of-code) and getting a remote job
+- 🔭 Exploring: open source software and contributions, and [digital gardening](https://maggieappleton.com/garden-history)
+  -  Stroll [my garden on dev.to](https://dev.to/sadiejay/) :)
 
 ## Here's some of my goals:
-- 🔲 Building up and launching my portfolio with JS, React,Svelte dapps/NFTs (maybe?)
-- 🔲 Securing freelance, contract or part-time work
+- 🔲 Completing #100daysofcode challenge
+- 🔲 Securing full-time or part-time developer role
 - 🔲 Remote jobs only please!
+- ☑️ Building and launching my portfolio with JS, React, and Svelte (coming soon) projects
 
 <!--
 **sadiejay/sadiejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

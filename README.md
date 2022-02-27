@@ -2,7 +2,7 @@
 
 - I'm a front-end web developer with a background in psychology, art and digital communication.
 - 😄 Pronouns: she / her
-- 👩🏾‍💻 Portfolio: [Sadie Jay| Front-End Developer](https://sadiejay.github.io/portfolio/)
+- 👩🏾‍💻 Portfolio: [Sadie Jay | Front-End Developer](https://sadiejay.github.io/portfolio/)
 
 ## Here's what I'm up to right now:
 - 🌱 Learning: Vanilla JS, React, and Svelte

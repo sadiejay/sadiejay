@@ -12,8 +12,8 @@
 
 ## Here's some of my goals:
 - 🔲 Completing #100daysofcode challenge
-- 🔲 Securing full-time or part-time developer role
-- 🔲 Remote jobs only please!
+- ☑️ Securing full-time or part-time developer role
+- ☑️ Remote jobs only please!
 - ☑️ Building and launching my portfolio with JS, React, and Svelte (coming soon) projects
 
 <!--

@@ -6,7 +6,7 @@
 
 ## Here's what I'm up to right now:
 - 🌱 Learning: Vanilla JS, React, and Svelte
-- 💥 Working on: [#100daysofcode](https://github.com/sadiejay/100-days-of-code) and getting a remote job
+- 💥 Working on: Being a new dev
 - 🔭 Exploring: open source software and contributions, and [digital gardening](https://maggieappleton.com/garden-history)
   -  Stroll [my garden on dev.to](https://dev.to/sadiejay/) :)
 

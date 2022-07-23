@@ -6,7 +6,7 @@
 
 ## Here's what I'm up to right now:
 - 🌱 Learning: Vanilla JS, React, and Svelte
-- 💥 Working on: Being a new dev
+- 💥 Working on: Updating portfolio and being a new dev
 - 🔭 Exploring: open source software and contributions, and [digital gardening](https://maggieappleton.com/garden-history)
   -  Stroll [my garden on dev.to](https://dev.to/sadiejay/) :)
 
